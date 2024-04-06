@@ -1,0 +1,14 @@
+C:\Users\win 11\source\repos\ostest11\ostest11\bin\Debug\net6.0\ostest11.exe
+C:\Users\win 11\source\repos\ostest11\ostest11\bin\Debug\net6.0\ostest11.deps.json
+C:\Users\win 11\source\repos\ostest11\ostest11\bin\Debug\net6.0\ostest11.runtimeconfig.json
+C:\Users\win 11\source\repos\ostest11\ostest11\bin\Debug\net6.0\ostest11.dll
+C:\Users\win 11\source\repos\ostest11\ostest11\bin\Debug\net6.0\ostest11.pdb
+C:\Users\win 11\source\repos\ostest11\ostest11\obj\Debug\net6.0\ostest11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 11\source\repos\ostest11\ostest11\obj\Debug\net6.0\ostest11.AssemblyInfoInputs.cache
+C:\Users\win 11\source\repos\ostest11\ostest11\obj\Debug\net6.0\ostest11.AssemblyInfo.cs
+C:\Users\win 11\source\repos\ostest11\ostest11\obj\Debug\net6.0\ostest11.csproj.CoreCompileInputs.cache
+C:\Users\win 11\source\repos\ostest11\ostest11\obj\Debug\net6.0\ostest11.dll
+C:\Users\win 11\source\repos\ostest11\ostest11\obj\Debug\net6.0\refint\ostest11.dll
+C:\Users\win 11\source\repos\ostest11\ostest11\obj\Debug\net6.0\ostest11.pdb
+C:\Users\win 11\source\repos\ostest11\ostest11\obj\Debug\net6.0\ostest11.genruntimeconfig.cache
+C:\Users\win 11\source\repos\ostest11\ostest11\obj\Debug\net6.0\ref\ostest11.dll

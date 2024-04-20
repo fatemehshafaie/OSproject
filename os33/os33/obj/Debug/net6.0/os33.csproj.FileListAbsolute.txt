@@ -1,0 +1,17 @@
+C:\Users\win 11\source\repos\os33\os33\bin\Debug\net6.0\os33.exe
+C:\Users\win 11\source\repos\os33\os33\bin\Debug\net6.0\os33.deps.json
+C:\Users\win 11\source\repos\os33\os33\bin\Debug\net6.0\os33.runtimeconfig.json
+C:\Users\win 11\source\repos\os33\os33\bin\Debug\net6.0\os33.dll
+C:\Users\win 11\source\repos\os33\os33\bin\Debug\net6.0\os33.pdb
+C:\Users\win 11\source\repos\os33\os33\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\win 11\source\repos\os33\os33\obj\Debug\net6.0\os33.csproj.AssemblyReference.cache
+C:\Users\win 11\source\repos\os33\os33\obj\Debug\net6.0\os33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 11\source\repos\os33\os33\obj\Debug\net6.0\os33.AssemblyInfoInputs.cache
+C:\Users\win 11\source\repos\os33\os33\obj\Debug\net6.0\os33.AssemblyInfo.cs
+C:\Users\win 11\source\repos\os33\os33\obj\Debug\net6.0\os33.csproj.CoreCompileInputs.cache
+C:\Users\win 11\source\repos\os33\os33\obj\Debug\net6.0\os33.csproj.CopyComplete
+C:\Users\win 11\source\repos\os33\os33\obj\Debug\net6.0\os33.dll
+C:\Users\win 11\source\repos\os33\os33\obj\Debug\net6.0\refint\os33.dll
+C:\Users\win 11\source\repos\os33\os33\obj\Debug\net6.0\os33.pdb
+C:\Users\win 11\source\repos\os33\os33\obj\Debug\net6.0\os33.genruntimeconfig.cache
+C:\Users\win 11\source\repos\os33\os33\obj\Debug\net6.0\ref\os33.dll

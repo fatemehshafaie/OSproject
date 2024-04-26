@@ -1,0 +1,14 @@
+C:\Users\win 11\source\repos\IDManager\IDManager\bin\Debug\net6.0\IDManager.exe
+C:\Users\win 11\source\repos\IDManager\IDManager\bin\Debug\net6.0\IDManager.deps.json
+C:\Users\win 11\source\repos\IDManager\IDManager\bin\Debug\net6.0\IDManager.runtimeconfig.json
+C:\Users\win 11\source\repos\IDManager\IDManager\bin\Debug\net6.0\IDManager.dll
+C:\Users\win 11\source\repos\IDManager\IDManager\bin\Debug\net6.0\IDManager.pdb
+C:\Users\win 11\source\repos\IDManager\IDManager\obj\Debug\net6.0\IDManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 11\source\repos\IDManager\IDManager\obj\Debug\net6.0\IDManager.AssemblyInfoInputs.cache
+C:\Users\win 11\source\repos\IDManager\IDManager\obj\Debug\net6.0\IDManager.AssemblyInfo.cs
+C:\Users\win 11\source\repos\IDManager\IDManager\obj\Debug\net6.0\IDManager.csproj.CoreCompileInputs.cache
+C:\Users\win 11\source\repos\IDManager\IDManager\obj\Debug\net6.0\IDManager.dll
+C:\Users\win 11\source\repos\IDManager\IDManager\obj\Debug\net6.0\refint\IDManager.dll
+C:\Users\win 11\source\repos\IDManager\IDManager\obj\Debug\net6.0\IDManager.pdb
+C:\Users\win 11\source\repos\IDManager\IDManager\obj\Debug\net6.0\IDManager.genruntimeconfig.cache
+C:\Users\win 11\source\repos\IDManager\IDManager\obj\Debug\net6.0\ref\IDManager.dll

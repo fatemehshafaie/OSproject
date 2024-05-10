@@ -1,0 +1,14 @@
+C:\Users\win 11\source\repos\os5\serverOS5\bin\Debug\net6.0\serverOS5.exe
+C:\Users\win 11\source\repos\os5\serverOS5\bin\Debug\net6.0\serverOS5.deps.json
+C:\Users\win 11\source\repos\os5\serverOS5\bin\Debug\net6.0\serverOS5.runtimeconfig.json
+C:\Users\win 11\source\repos\os5\serverOS5\bin\Debug\net6.0\serverOS5.dll
+C:\Users\win 11\source\repos\os5\serverOS5\bin\Debug\net6.0\serverOS5.pdb
+C:\Users\win 11\source\repos\os5\serverOS5\obj\Debug\net6.0\serverOS5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 11\source\repos\os5\serverOS5\obj\Debug\net6.0\serverOS5.AssemblyInfoInputs.cache
+C:\Users\win 11\source\repos\os5\serverOS5\obj\Debug\net6.0\serverOS5.AssemblyInfo.cs
+C:\Users\win 11\source\repos\os5\serverOS5\obj\Debug\net6.0\serverOS5.csproj.CoreCompileInputs.cache
+C:\Users\win 11\source\repos\os5\serverOS5\obj\Debug\net6.0\serverOS5.dll
+C:\Users\win 11\source\repos\os5\serverOS5\obj\Debug\net6.0\refint\serverOS5.dll
+C:\Users\win 11\source\repos\os5\serverOS5\obj\Debug\net6.0\serverOS5.pdb
+C:\Users\win 11\source\repos\os5\serverOS5\obj\Debug\net6.0\serverOS5.genruntimeconfig.cache
+C:\Users\win 11\source\repos\os5\serverOS5\obj\Debug\net6.0\ref\serverOS5.dll
